@@ -12,7 +12,8 @@
 * Member contribution: https://github.com/fy3344/deco3500_balenciaga/wiki/Member-Contribution
 
 # Instruction
-Press f12 and toggle device toolbar, switch the demensions to Iphone 12 Pro
+* Press f12 and toggle device toolbar, switch the demensions to Iphone 12 Pro
+* Food data is stored as browser cache, clear the data: f12 -> application -> Storage -> Local Storage -> delete mockdataApp
 
 ## Function
 ### Login: 
