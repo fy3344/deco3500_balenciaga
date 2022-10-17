@@ -429,8 +429,8 @@ label {
 
 .searchbar{
   margin-top: 13%;
-  width:65%;
-  height: 5vh;
+  width:80%;
+  height: 40%;
   background-color: #F0EDE7;
   display: flex;
   align-items: center;
@@ -441,7 +441,8 @@ label {
 }
 
 .searchbar input{
-  height: 5vh;
+  width: 85%;
+  height: 10%;
   background-color: transparent;
   flex: 1;
   border: none;
@@ -455,7 +456,7 @@ label {
 }
 
 .searchbar button{
-  margin-left:50vw;
+  /* margin-left:90%; */
   border: 0;
   border-radius: 50%;
   width: 8vw;
@@ -474,11 +475,12 @@ label {
 }
 
 .searchbox {
-  margin-top: 8vw;
+  margin-top: 2%;
 }
 .post-like {
-  margin-top: 8%;
+  /* margin-top: 8%; */
   float: right;
+  font-size: 80%;
   font-family: "Lucida Console",  monospace;
 }
 
