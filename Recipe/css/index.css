@@ -551,3 +551,9 @@ label {
   color: white;
   margin-left: 25%;
 }
+
+.goLogin-btn {
+  padding: 0;
+  border: none;
+  background: none;
+}
