@@ -3,7 +3,7 @@
 # hyperlinked overview
 
 * Poster
-<img width="1191" alt="deco3500_poster" src="https://user-images.githubusercontent.com/70873896/196159492-2fb46912-0736-41d8-882c-dc0c50895739.png">
+<img width="740" height="1088" alt="deco3500_poster" src="https://user-images.githubusercontent.com/70873896/196159492-2fb46912-0736-41d8-882c-dc0c50895739.png">
 
 
 * Online prototype: https://fy3344.github.io/Recipe/community.html
