@@ -12,3 +12,13 @@ function videoBtnClicked() {
     document.getElementById("video-btn").style.backgroundColor = "#4d1c07";
 }
 
+function comGoLogin() {
+    document.getElementById("commnuity-container").style.display = "none";
+    document.getElementById("sign-container").style.display = "block";
+        
+}
+
+function goBackCom(){
+    document.getElementById("commnuity-container").style.display = "block";
+    document.getElementById("sign-container").style.display = "none";
+}
