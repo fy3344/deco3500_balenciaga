@@ -27,6 +27,8 @@
 ### Record:
 * The user can record daily eating behavior in the form of a calendar, with the red date being the current date and the green date being the date that has been recorded. The system will provide the total number of days recorded for the month, and when clicking on the recorded date, the system will provide the current day's dietary behavior and the nutritional intake for the day.
 
+*For Posts, users can select "Learn to do" and jump to the record interface to add the corresponding ingredients and record of the day's diet. At the same time, the authors of the recipes learned by others will be notified and recorded. The number of times a recipe is learned is recorded and rewards are given for certain achievements.
+
 * In the nutritional intak (daily), the user can set a calorie goal for the day, fill in different types of food with the add button and calculate the total calories to see if the goal is met.
 
 * If the user does not select a date, the daily button will jump to the nutritional intak for the current date by default.
