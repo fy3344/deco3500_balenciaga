@@ -3,7 +3,8 @@
 # hyperlinked overview
 
 * Poster
-![deco3500_poster](https://user-images.githubusercontent.com/70873896/196746644-c742863d-62b7-4523-bfb1-22a3eb83d25a.png)
+
+![poster](https://user-images.githubusercontent.com/91201620/196772910-eb448f18-0405-4320-a266-070b9175f141.png)
 
 
 
