@@ -11,6 +11,7 @@
 * Repository: https://github.com/fy3344/deco3500_balenciaga
 * Wiki: https://github.com/fy3344/deco3500_balenciaga/wiki
 * Design process: https://github.com/fy3344/deco3500_balenciaga/wiki/Design-Process-Documentation
+* Kickstarter video: https://drive.google.com/file/d/1G3qHUDL9dqdO6OsBas64ycN3OvI1VMfX/view?usp=sharing
 * Member contribution: https://github.com/fy3344/deco3500_balenciaga/wiki/Member-Contribution
 
 # Instruction
