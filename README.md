@@ -8,6 +8,8 @@
 
 
 
+* Version 1 Adobe XD Prototype: https://xd.adobe.com/view/ca13defa-a668-4a43-844c-3ad0d3fa2cd5-9f40/?hints=off
+* Version 2 Adobe XD Prototype (iteration): https://xd.adobe.com/view/72d2bbcb-a0d1-4c1e-98d7-9abe37cd52bb-2781/?fullscreen&hints=off
 * Online prototype: https://fy3344.github.io/Recipe/community.html
 * Prototype code: https://github.com/fy3344/deco3500_balenciaga/tree/main/Recipe 
 * Repository: https://github.com/fy3344/deco3500_balenciaga
