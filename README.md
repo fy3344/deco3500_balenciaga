@@ -17,7 +17,7 @@
 * Design process: https://github.com/fy3344/deco3500_balenciaga/wiki/Design-Process-Documentation
 * Kickstarter video: https://drive.google.com/file/d/1G3qHUDL9dqdO6OsBas64ycN3OvI1VMfX/view?usp=sharing
 * Member contribution: https://github.com/fy3344/deco3500_balenciaga/wiki/Member-Contribution
-* Exhibit: https://docs.google.com/presentation/d/1klgygSzJM07YxRJv6Dep24-TMy23m1KY/edit#slide=id.g16d38c10671_1_23
+* Exhibit PowerPoint with detailed poster: https://docs.google.com/presentation/d/1klgygSzJM07YxRJv6Dep24-TMy23m1KY/edit#slide=id.g16d38c10671_1_23
 
 # Instruction
 * Press f12 and toggle device toolbar, switch the demensions to Iphone 12 Pro
